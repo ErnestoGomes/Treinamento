@@ -1,8 +1,12 @@
 # treinamento
 Treinamento GIT
-
+<br>
+<br>
 Criar conta no GITHUB
-Criar Empresa (Company)
+<br>
+Criar Empresa (Organizations)
+<br>
 Criar Repositório
+<br>
 
 
